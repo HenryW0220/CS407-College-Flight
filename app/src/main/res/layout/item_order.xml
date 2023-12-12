@@ -1,0 +1,51 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:padding="16dp"
+    android:background="@android:color/white"
+    android:elevation="4dp"
+    android:layout_margin="8dp">
+
+    <TextView
+        android:id="@+id/tvOrderDepartureCity"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Departure City: "
+        android:textStyle="bold"/>
+
+    <TextView
+        android:id="@+id/tvOrderDestinationCity"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Destination City: "
+        android:textStyle="bold"/>
+
+    <TextView
+        android:id="@+id/tvOrderDepartureTime"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Departure Time: "
+        android:textStyle="bold"/>
+
+    <TextView
+        android:id="@+id/tvOrderArrivalTime"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Arrival Time: "
+        android:textStyle="bold"/>
+
+    <TextView
+        android:id="@+id/tvOrderTotalDuration"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Total Duration: "
+        android:textStyle="bold"/>
+
+    <TextView
+        android:id="@+id/tvOrderFlightDate"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Flight Date: "
+        android:textStyle="bold"/>
+</LinearLayout>
