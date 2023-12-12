@@ -1,0 +1,21 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/action_main"
+        android:title="Main"
+        android:icon="@drawable/ic_main" />
+
+    <item
+        android:id="@+id/action_my_trips"
+        android:title="My Trips"
+        android:icon="@drawable/ic_my_trips" />
+
+    <item
+        android:id="@+id/action_inbox"
+        android:title="Inbox"
+        android:icon="@drawable/ic_inbox" />
+
+    <item
+        android:id="@+id/action_account"
+        android:title="Account"
+        android:icon="@drawable/ic_account" />
+</menu>
