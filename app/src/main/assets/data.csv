@@ -1,0 +1,115 @@
+Leaving from (起飞地点),Departure time (起飞时间),Going to (到达地点),Time of arrival (到达时间),Total duration (总时长),Price (价格)
+San Diego (SAN),16:38:00,Phoenix (PHX),20:21:00,3h 43m,337.12
+New York (JFK),12:09:00,San Diego (SAN),13:44:00,1h 35m,144.49
+Philadelphia (PHL),03:58:00,Los Angeles (LAX),07:34:00,3h 36m,237.12
+Dallas (DFW),02:59:00,New York (JFK),06:17:00,3h 18m,248.61
+Philadelphia (PHL),17:32:00,San Diego (SAN),21:47:00,4h 15m,348.91
+San Antonio (SAT),15:14:00,Phoenix (PHX),20:24:00,5h 10m,369.15
+Los Angeles (LAX),00:19:00,New York (JFK),03:25:00,3h 6m,258.42
+New York (JFK),11:53:00,Houston (IAH),16:58:00,5h 5m,336.26
+Dallas (DFW),21:39:00,Chicago (ORD),23:42:00,2h 3m,147.13
+Dallas (DFW),11:44:00,Houston (IAH),14:45:00,3h 1m,209.51
+Houston (IAH),12:44:00,Los Angeles (LAX),18:28:00,5h 44m,491.91
+New York (JFK),17:11:00,Phoenix (PHX),20:59:00,3h 48m,271.74
+Philadelphia (PHL),03:47:00,Houston (IAH),07:24:00,3h 37m,335.0
+Dallas (DFW),15:57:00,New York (JFK),20:58:00,5h 1m,464.01
+San Diego (SAN),21:15:00,San Jose (SJC),23:12:00,1h 57m,130.39
+San Antonio (SAT),20:22:00,San Diego (SAN),21:52:00,1h 30m,117.03
+San Antonio (SAT),00:01:00,New York (JFK),04:07:00,4h 6m,344.75
+San Jose (SJC),17:43:00,Philadelphia (PHL),22:28:00,4h 45m,305.3
+San Diego (SAN),16:07:00,Chicago (ORD),19:00:00,2h 53m,218.4
+San Diego (SAN),09:09:00,San Jose (SJC),11:11:00,2h 2m,148.72
+San Diego (SAN),04:15:00,Los Angeles (LAX),10:13:00,5h 58m,426.8
+San Diego (SAN),03:21:00,New York (JFK),04:41:00,1h 20m,119.89
+Phoenix (PHX),12:30:00,San Diego (SAN),14:54:00,2h 24m,202.91
+Phoenix (PHX),09:16:00,San Diego (SAN),11:48:00,2h 32m,183.1
+Phoenix (PHX),12:15:00,Chicago (ORD),13:31:00,1h 16m,110.88
+San Antonio (SAT),02:57:00,New York (JFK),08:35:00,5h 38m,412.22
+San Jose (SJC),15:32:00,Chicago (ORD),18:47:00,3h 15m,258.43
+Philadelphia (PHL),21:01:00,San Jose (SJC),23:36:00,2h 35m,220.94
+Los Angeles (LAX),09:30:00,Chicago (ORD),13:06:00,3h 36m,329.92
+New York (JFK),08:23:00,Philadelphia (PHL),12:13:00,3h 50m,345.32
+San Antonio (SAT),19:29:00,San Jose (SJC),21:15:00,1h 46m,155.87
+San Diego (SAN),19:02:00,Houston (IAH),23:55:00,4h 53m,459.17
+Philadelphia (PHL),08:31:00,Chicago (ORD),14:10:00,5h 39m,393.55
+Houston (IAH),16:03:00,Dallas (DFW),18:50:00,2h 47m,206.17
+Phoenix (PHX),00:45:00,San Diego (SAN),05:47:00,5h 2m,376.87
+San Jose (SJC),09:59:00,Los Angeles (LAX),14:58:00,4h 59m,383.95
+Los Angeles (LAX),20:44:00,San Jose (SJC),22:43:00,1h 59m,165.66
+San Antonio (SAT),19:10:00,Chicago (ORD),22:34:00,3h 24m,311.34
+Dallas (DFW),04:12:00,San Diego (SAN),09:12:00,5h,441.81
+Dallas (DFW),10:17:00,Philadelphia (PHL),11:48:00,1h 31m,106.16
+Phoenix (PHX),18:08:00,San Jose (SJC),21:15:00,3h 7m,272.45
+Phoenix (PHX),09:40:00,San Antonio (SAT),11:53:00,2h 13m,205.98
+San Antonio (SAT),15:44:00,Chicago (ORD),18:31:00,2h 47m,253.38
+San Diego (SAN),07:34:00,Philadelphia (PHL),09:37:00,2h 3m,164.44
+Houston (IAH),17:22:00,San Jose (SJC),22:24:00,5h 2m,394.27
+Chicago (ORD),18:06:00,San Jose (SJC),20:08:00,2h 2m,137.87
+Los Angeles (LAX),01:29:00,San Diego (SAN),04:04:00,2h 35m,185.8
+Dallas (DFW),16:11:00,San Diego (SAN),20:39:00,4h 28m,345.61
+Chicago (ORD),12:33:00,San Jose (SJC),15:07:00,2h 34m,187.34
+Houston (IAH),16:01:00,San Antonio (SAT),19:29:00,3h 28m,314.97
+Los Angeles (LAX),02:26:00,San Diego (SAN),08:04:00,5h 38m,478.52
+Houston (IAH),00:17:00,San Antonio (SAT),02:50:00,2h 33m,227.69
+Philadelphia (PHL),12:32:00,San Diego (SAN),16:37:00,4h 5m,368.82
+New York (JFK),09:14:00,Houston (IAH),10:56:00,1h 42m,112.28
+Los Angeles (LAX),10:26:00,Chicago (ORD),15:29:00,5h 3m,375.36
+Phoenix (PHX),18:03:00,San Antonio (SAT),22:31:00,4h 28m,411.96
+Philadelphia (PHL),12:16:00,Houston (IAH),14:05:00,1h 49m,143.54
+Dallas (DFW),05:53:00,Los Angeles (LAX),07:53:00,2h,182.2
+San Diego (SAN),11:32:00,San Antonio (SAT),17:02:00,5h 30m,452.25
+Chicago (ORD),12:07:00,San Jose (SJC),16:00:00,3h 53m,317.59
+San Antonio (SAT),10:52:00,Los Angeles (LAX),16:41:00,5h 49m,408.72
+San Diego (SAN),06:15:00,Phoenix (PHX),08:18:00,2h 3m,183.78
+Philadelphia (PHL),16:37:00,Houston (IAH),20:44:00,4h 7m,285.9
+Houston (IAH),04:13:00,Dallas (DFW),09:57:00,5h 44m,517.13
+Houston (IAH),08:44:00,San Jose (SJC),12:17:00,3h 33m,292.19
+Phoenix (PHX),00:35:00,Los Angeles (LAX),03:33:00,2h 58m,233.31
+San Antonio (SAT),04:18:00,San Diego (SAN),09:51:00,5h 33m,515.34
+Chicago (ORD),02:15:00,New York (JFK),04:56:00,2h 41m,202.36
+Philadelphia (PHL),15:10:00,Los Angeles (LAX),19:03:00,3h 53m,300.3
+San Jose (SJC),16:11:00,Philadelphia (PHL),18:01:00,1h 50m,145.1
+Chicago (ORD),19:01:00,San Jose (SJC),20:53:00,1h 52m,147.5
+Los Angeles (LAX),05:41:00,San Diego (SAN),07:24:00,1h 43m,157.47
+Houston (IAH),03:45:00,San Diego (SAN),08:52:00,5h 7m,339.79
+New York (JFK),04:50:00,San Antonio (SAT),10:19:00,5h 29m,410.34
+San Diego (SAN),03:55:00,New York (JFK),09:54:00,5h 59m,464.42
+San Antonio (SAT),07:28:00,Houston (IAH),09:48:00,2h 20m,181.33
+San Diego (SAN),18:40:00,Chicago (ORD),20:25:00,1h 45m,151.18
+Houston (IAH),03:03:00,Los Angeles (LAX),06:51:00,3h 48m,311.77
+Dallas (DFW),07:49:00,San Jose (SJC),10:32:00,2h 43m,239.05
+Houston (IAH),11:28:00,Dallas (DFW),16:51:00,5h 23m,419.29
+Los Angeles (LAX),07:16:00,Houston (IAH),12:06:00,4h 50m,312.63
+Phoenix (PHX),18:27:00,San Diego (SAN),20:37:00,2h 10m,207.55
+Phoenix (PHX),04:26:00,San Antonio (SAT),08:23:00,3h 57m,283.89
+Dallas (DFW),02:15:00,New York (JFK),03:22:00,1h 7m,73.84
+Madison(MSN),06:15:00,North Carolina(RDU),10:15:00,4h,400
+Madison(MSN),08:23:00,North Carolina(RDU),13:00:00,4h 37m,340
+Madison(MSN),09:30:00,North Carolina(RDU),13:06:00,3h 36m,380
+Madison(MSN),10:40:00,North Carolina(RDU),15:06:00,4h 26m,320
+Madison(MSN),10:15:00,North Carolina(RDU),13:15:00,3h,450
+North Carolina(RDU),10:40:00,Madison(MSN),13:56:00,3h 16m,420
+North Carolina(RDU),13:40:00,Madison(MSN),16:50:00,3h 10m,500
+North Carolina(RDU),13:46:00,Madison(MSN),18:30:00,4h 44m,200
+North Carolina(RDU),15:46:00,Madison(MSN),19:46:00,4h,230
+North Carolina(RDU),13:46:00,Madison(MSN),17:02:00,3h 16m,450
+New York (JFK),7:00:00,Boston(BOS),9:00:00,2h,300
+New York (JFK),8:45:00,Boston(BOS),10:29:00,1h 44m,500
+New York (JFK),9:45:00,Boston(BOS),13:00:00,3h 15m,220
+New York (JFK),10:20:00,Boston(BOS),12:20:00,2h,320
+New York (JFK),11:40:00,Boston(BOS),13:30:00,1h 50m,400
+Boston(BOS),9:40:00,New York (JFK),11:30:00,1h 50m,430
+Boston(BOS),11:09:00,New York (JFK),13:09:00,2h,390
+Boston(BOS),13:40:00,New York (JFK),15:45:00,2h 5m,500
+Boston(BOS),13:00:00,New York (JFK),15:20:00,2h 20m,345
+Boston(BOS),14:20:00,New York (JFK),16:00:00,1h 40m,560
+Los Angeles (LAX),14:00:00,Chicago (ORD),19:30:00,5h 30m,1000
+Los Angeles (LAX),08:00:00,Chicago (ORD),14:00:00,6h,800
+Los Angeles (LAX),09:00:00,Chicago (ORD),14:06:00,5h 6m,860
+Los Angeles (LAX),10:42:00,Chicago (ORD),15:43:00,5h 1m,900
+Los Angeles (LAX),11:00:00,Chicago (ORD),16:45:00,5h 45m,850
+Los Angeles (LAX),15:45:00,Chicago (ORD),20:50:00,5h 5m,865
+Chicago (ORD),14:40:00,Los Angeles (LAX),19:45:00,5h 5m,876
+Chicago (ORD),14:46:00,Los Angeles (LAX),20:20:00,5h 34m,890
+Chicago (ORD),16:43:00,Los Angeles (LAX),21:50:00,5h 7m,877
+Chicago (ORD),17:45:00,Los Angeles (LAX),23:12:00,5h 27m,897
